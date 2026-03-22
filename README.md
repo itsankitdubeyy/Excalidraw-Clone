@@ -59,7 +59,7 @@ Fork 🍴 → Edit ✏️ → Pull Request 🚀
 DUBEY ANKIT
 
 🌐 Portfolio:
-https://ankitdubeyblogs.blogspot.com/
+https://itssankitdubey.blogspot.com/
 
 ⭐ Support
 
