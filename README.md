@@ -28,7 +28,7 @@ JavaScript
 Canvas API
 ⚡ Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/excalidraw-clone.git
+git clone [https://github.com/itsankitdubeyy/excalidraw-clone.git](https://itsankitdubeyy.github.io/Excalidraw-Clone/)
 
 # Navigate to folder
 cd excalidraw-clone
